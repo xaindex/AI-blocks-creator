@@ -21,10 +21,6 @@ To run your model simply press the "Play" button and let the magic happen!
 
 <img src="https://raw.githubusercontent.com/MrNothing/AI-Blocks/master/ScreenShots/sc6.png">
 
-### Download
-
-All releases can be found here: https://github.com/MrNothing/AI-Blocks/releases/
-
 ### Build and Run
 
 First type:
@@ -36,11 +32,6 @@ To run the project from the sources:
 To build the project from the sources:
 ```npm run pack```
 
-### Documentation
-
-Documentation and video tutorials can be found on the website: https://mrnothing.github.io/AI-Blocks/index.html
-
-### License
-
-The program is distributed under the following license: https://creativecommons.org/licenses/by-nc/3.0/
+## Contact
+Feel free to contact us if there is any question (tech@xaindex.ai).
 
